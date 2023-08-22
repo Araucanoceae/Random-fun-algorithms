@@ -6,4 +6,4 @@
 
 LFSR is also for Crypto in how to implement, well, LFSRs...
 
-RecordPlayer (class inheritance and abstraction) and UniClass is for teaching about OOPing to maths students
+RecordPlayer (class inheritance and abstraction) and UniClass (morphisms) is for teaching about OOPing to maths students
